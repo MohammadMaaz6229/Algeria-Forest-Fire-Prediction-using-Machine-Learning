@@ -178,8 +178,11 @@ Store them inside the **images/** folder.
 
 **Mohammad Maaz**
 
-* **LinkedIn:** https://www.linkedin.com/in/mohd-maaz-534012235
-* **GitHub:** https://github.com/MohdMaaz6229
+📧 Email: Maazmohd052@gmail.com 
+
+🔗 LinkedIn: https://www.linkedin.com/in/mohd-maaz-08691a366
+
+💻 GitHub: https://github.com/MohammadMaaz6229
 
 ---
 
